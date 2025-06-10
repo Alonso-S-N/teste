@@ -16,6 +16,7 @@ public class Main {
         Visualização J = new Visualização(g[0],v[0]);
         J.Avaliar(35.0f);
         System.out.println(J.toString());
+        System.out.println(J.toString());
     }
 
 }
